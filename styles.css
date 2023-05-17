@@ -1,0 +1,17 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.container{
+  max-width:435px;
+  min-height: 54vh;
+  padding: 2px;
+  background-color: #fab98ead;
+  box-shadow: 0 4px 6px 0 #f36464, 0 6px 20px 0 rgba(255, 211, 116, 0.918);
+}
+sup{
+  pointer-events: none;
+  background-color: rgba(220, 20, 60, 0.486);
+}
